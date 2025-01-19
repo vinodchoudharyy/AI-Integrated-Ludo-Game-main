@@ -35,7 +35,6 @@
 <h3 align="center"><b> 🎯 Minimum Players to participate: 2 Players</b></h3>
 <h3 align="center"><b> 🎯 Maximum Players to participate: 4 Players</b></h3></br>
 
-### <p align="center">🧐 Before Contributing, Recommended to Check [CONTRIBUTING.md](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/blob/main/CONTRIBUTING.md) file</p>
 
 <h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
@@ -52,9 +51,6 @@ pip install pillow
 ***
 <h2 align="center"><b>💡 Some Important Links 💡</b></h2>
 
-- [<h3>Click Here to See the Project Video</h3>](https://youtu.be/5NScX6qgd3Y)
-
-- [<h3>Follow Me on LinkedIn to Get Regular Project Updates</h3>](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")
 
 <h2 align="center"><b>🧡 Thank You For Visiting 🙏, Have a Nice Day 🧡 </b></h2>
 
